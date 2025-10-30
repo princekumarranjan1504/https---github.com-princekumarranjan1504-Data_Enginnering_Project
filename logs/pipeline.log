@@ -1,0 +1,77 @@
+2025-10-29 10:19:39,546 | INFO | Data ingestion completed.
+2025-10-29 10:19:39,576 | INFO | Data cleaning completed.
+2025-10-29 10:19:39,581 | INFO | Data transformation completed.
+2025-10-29 10:19:39,739 | INFO | Output saved successfully: ../output/structured_data.csv
+2025-10-29 10:33:33,606 | INFO | Data ingestion completed.
+2025-10-29 10:33:33,619 | INFO | Data cleaning completed.
+2025-10-29 10:33:33,622 | INFO | Data transformation completed.
+2025-10-29 10:33:33,775 | INFO | Output saved successfully: ../output/structured_data.csv
+2025-10-29 10:39:42,492 | INFO | ✅ Logger initialized.
+2025-10-29 10:39:42,497 | INFO | 🚀 Starting NeoStats Data Pipeline...
+2025-10-29 10:39:46,917 | INFO | Data ingestion completed.
+2025-10-29 10:39:46,932 | INFO | Data cleaning completed.
+2025-10-29 10:39:46,935 | INFO | Data transformation completed.
+2025-10-29 10:39:47,081 | INFO | Output saved successfully: ../output/structured_data.csv
+2025-10-29 10:39:47,085 | INFO | ✅ Pipeline executed successfully!
+2025-10-29 11:00:42,697 | INFO | ✅ Logger initialized.
+2025-10-29 11:00:42,703 | INFO | 🚀 Starting NeoStats Data Pipeline...
+2025-10-29 11:00:46,203 | INFO | Data ingestion completed.
+2025-10-29 11:00:46,212 | INFO | Data cleaning completed.
+2025-10-29 11:00:46,218 | INFO | Data transformation completed.
+2025-10-29 11:00:46,360 | INFO | Output saved successfully: ../output/structured_data.csv
+2025-10-29 11:00:46,363 | INFO | ✅ Pipeline executed successfully!
+2025-10-29 11:48:09,879 | INFO | Logger initialized.
+2025-10-29 11:48:09,884 | INFO | \U0001f680 Starting NeoStats Data Pipeline...
+2025-10-29 11:48:14,464 | INFO | Data ingestion completed.
+2025-10-29 11:48:14,475 | INFO | Data cleaning completed.
+2025-10-29 11:48:14,522 | INFO | Data transformation completed.
+2025-10-29 11:48:14,762 | INFO | Output saved successfully: ../output/structured_data.csv
+2025-10-29 11:48:14,767 | INFO | \u2705 Pipeline executed successfully!
+2025-10-29 11:56:29,805 | INFO | Logger initialized.
+2025-10-29 11:56:29,808 | INFO | Starting NeoStats Data Pipeline...
+2025-10-29 11:56:34,523 | INFO | Data ingestion completed.
+2025-10-29 11:56:34,535 | INFO | Station data combined
+2025-10-29 11:56:34,544 | INFO | Data cleaning completed.
+2025-10-29 11:56:34,566 | INFO | Data transformation completed.
+2025-10-29 11:56:34,846 | INFO | Output saved successfully: ../output/structured_data.csv
+2025-10-29 11:56:34,850 | INFO | Pipeline executed successfully!
+2025-10-29 18:21:40,301 | INFO | Logger initialized.
+2025-10-29 18:21:40,306 | INFO | Starting NeoStats Data Pipeline...
+2025-10-29 18:21:45,174 | INFO | Data ingestion completed.
+2025-10-29 18:21:45,197 | INFO | Station data combined
+2025-10-29 18:21:45,209 | INFO | Data cleaning completed.
+2025-10-29 18:21:45,258 | INFO | Data transformation completed.
+2025-10-29 18:21:45,261 | ERROR | Error saving output: 'tuple' object has no attribute 'to_csv'
+2025-10-29 18:21:45,266 | INFO | Pipeline executed successfully!
+2025-10-29 18:25:03,428 | INFO | Logger initialized.
+2025-10-29 18:25:03,434 | INFO | Starting NeoStats Data Pipeline...
+2025-10-29 18:25:07,404 | INFO | Data ingestion completed.
+2025-10-29 18:25:07,415 | INFO | Station data combined
+2025-10-29 18:25:07,423 | INFO | Data cleaning completed.
+2025-10-29 18:25:07,449 | INFO | Data transformation completed.
+2025-10-29 18:25:07,658 | INFO | Output saved successfully: ../output/structured_data.csv
+2025-10-29 18:25:07,660 | INFO | Pipeline executed successfully!
+2025-10-30 06:54:45,784 | INFO | Logger initialized.
+2025-10-30 06:54:45,789 | INFO | Starting NeoStats Data Pipeline...
+2025-10-30 06:54:51,097 | INFO | Data ingestion completed.
+2025-10-30 06:54:51,127 | INFO | Station data combined
+2025-10-30 06:54:51,149 | INFO | Data cleaning completed.
+2025-10-30 06:54:51,174 | INFO | Data transformation completed.
+2025-10-30 06:54:51,398 | INFO | Output saved successfully: ../output/structured_data.csv
+2025-10-30 06:54:51,401 | INFO | Pipeline executed successfully!
+2025-10-30 08:54:10,470 | INFO | Logger initialized.
+2025-10-30 08:54:10,475 | INFO | Starting NeoStats Data Pipeline...
+2025-10-30 08:54:15,040 | INFO | Data ingestion completed.
+2025-10-30 08:54:15,069 | INFO | Station data combined
+2025-10-30 08:54:15,154 | INFO | Data cleaning completed.
+2025-10-30 08:54:15,265 | INFO | Data transformation completed.
+2025-10-30 08:54:15,268 | ERROR | Error saving output: 'tuple' object has no attribute 'to_csv'
+2025-10-30 08:54:15,273 | INFO | Pipeline executed successfully!
+2025-10-30 09:03:30,547 | INFO | Logger initialized.
+2025-10-30 09:03:30,552 | INFO | Starting NeoStats Data Pipeline...
+2025-10-30 09:03:35,059 | INFO | Data ingestion completed.
+2025-10-30 09:03:35,071 | INFO | Station data combined
+2025-10-30 09:03:35,137 | INFO | Data cleaning completed.
+2025-10-30 09:03:35,165 | INFO | Data transformation completed.
+2025-10-30 09:03:35,493 | INFO | Output saved successfully: ../output/structured_data.csv
+2025-10-30 09:03:35,496 | INFO | Pipeline executed successfully!
