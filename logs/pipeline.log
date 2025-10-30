@@ -75,3 +75,11 @@
 2025-10-30 09:03:35,165 | INFO | Data transformation completed.
 2025-10-30 09:03:35,493 | INFO | Output saved successfully: ../output/structured_data.csv
 2025-10-30 09:03:35,496 | INFO | Pipeline executed successfully!
+2025-10-30 17:15:12,522 | INFO | Logger initialized.
+2025-10-30 17:15:12,525 | INFO | Starting NeoStats Data Pipeline...
+2025-10-30 17:15:17,702 | INFO | Data ingestion completed.
+2025-10-30 17:15:17,726 | INFO | Station data combined
+2025-10-30 17:15:17,804 | INFO | Data cleaning completed.
+2025-10-30 17:15:17,836 | INFO | Data transformation completed.
+2025-10-30 17:15:18,047 | INFO | Output saved successfully: ../output/structured_data.csv
+2025-10-30 17:15:18,049 | INFO | Pipeline executed successfully!
