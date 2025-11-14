@@ -1,5 +1,5 @@
-NeoStats — Server Performance Pipeline (Documentation)
-This document provides a concise overview of the Neostars_Project pipeline, how to run it locally, produced artifacts, assumptions, and recommended next steps for scaling.
+Server Performance Pipeline (Documentation)
+This document provides a concise overview of the Project pipeline, how to run it locally, produced artifacts, assumptions, and recommended next steps for scaling.
 
 Project overview
 A batch data pipeline that ingests server metadata and performance logs (Excel), cleans and transforms them into actionable metrics, and produces aggregated outputs suitable for Power BI visualization.
